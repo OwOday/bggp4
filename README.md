@@ -27,7 +27,7 @@ Target Environment (How do we run the file?): Windows 11 (I'm on 25201.1000), Ad
 
 Any additional info?: In order to solve not being able to open cmd in a local path (and to golf better), the payload searches your entire computer for files named exactly "4". It also preserves the directory structure (to golf better) when it copies it into %TMP%. As a result the exploit takes a very very long time to run, if you are just testing it I recommend replacing "robocopy ./" with "robocopy *PATH_TO_DIR_CONTAINING_PDF*". The file should copy the itself then echo 4 to the terminal. Since I cant get a working directory or local directory in pdf it is essential that the file be named "4" exactly. Also, you need to accept a prompt for the cmd to kick off, digging for an old enough copy that it is still able to open a shell on Windows 11 was hard enough so I didn't bother finding one without the prompt.
 
-Link to PoC video, screenshot, or console output, if any: 
+Link to PoC video, screenshot, or console output, if any: https://github.com/gaycomputers/bggp4/blob/main/photos/complete.png (4 is in bottom left)
 
 Link to writeup, if any: https://github.com/gaycomputers/bggp4
 
