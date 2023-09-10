@@ -1,8 +1,14 @@
 A friend told me a couple months ago that PDFs original spec was super crazy and Turing complete. It's still Turing complete kinda but I started trying to read about older PDF specs. Since I can barely read I was thankful this challenge came along to get me to learn a little bit about it. I gotta say, the older PDF specs are pretty cool in a fucked up kinda way. It was interesting to learn how much of the spec acrobat simply didnt care was missing. Thanks for hosting the challenge again this year!
 
+The official submission lies in "displays4interminal", instructions in entry below. There also exists "displays4inpage" which is a not-fully-golfed version that displays 4 on the page instead of cmd (much bigger due to pdf spec)
 
+A couple loopholes I used:
+> searches whole filesystem for the file to save characters and avoid the problem where pdfs Launch drops you into system32
+> copies the file and its whole path into tmp, which saves characters but makes it hard to find
 
+There was a lot of workarounds for weird bugs like calling robocopy in cmd after seemingly needlessly changing directory, some of which make it seem like I didn't use the shortest option in some places, but I couldn't make the alternatives work in any cases I noticed.
 
+The extras folder contains various files I generated/borrowed/made that I either arrived at as a checkpoint or used for inspiration/investigation
 
 
 ---BEGIN BGGP4 ENTRY---
