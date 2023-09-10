@@ -1,4 +1,12 @@
+A friend told me a couple months ago that PDFs original spec was super crazy and Turing complete. It's still Turing complete kinda but I started trying to read about older PDF specs. Since I can barely read I was thankful this challenge came along to get me to learn a little bit about it. I gotta say, the older PDF specs are pretty cool in a fucked up kinda way. It was interesting to learn how much of the spec acrobat simply didnt care was missing. Thanks for hosting the challenge again this year!
+
+
+
+
+
+
 ---BEGIN BGGP4 ENTRY---
+
 Name or handle: gaycomputers
 
 Contact Info: 
@@ -20,6 +28,3 @@ Link to writeup, if any: https://github.com/gaycomputers/bggp4
 File contents (base64 encoded please): JVBERi0xLgowIDAgb2JqPDwvUGFnZXM+PmVuZG9iagp0cmFpbGVyPDwvUm9vdDw8L1BhZ2VzPDw+Pi9PcGVuQWN0aW9uPDwvUy9MYXVuY2gvV2luPDwvRiAoY21kLmV4ZSkvUCAoL0sgY2QgLi4vLi4gJnJvYm9jb3B5IC4vICVUTVAlIC9zIC9JRiAiNCIgJmVjaG8gNCk+Pj4+Pj4+Pg==
 
 ---END BGGP4 ENTRY---
-
-
-A friend told me a couple months ago that PDFs original spec was super crazy and Turing complete. It's still Turing complete kinda but I started trying to read about older PDF specs. Since I can barely read I was thankful this challenge came along to get me to learn a little bit about it. I gotta say, the older PDF specs are pretty cool in a fucked up kinda way. It was interesting to learn how much of the spec acrobat simply didnt care was missing. Thanks for hosting the challenge again this year!
