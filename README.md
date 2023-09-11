@@ -4,6 +4,7 @@ The official submission lies in "displays4interminal", instructions in entry bel
 
 A couple loopholes I used:
 > searches whole filesystem for the file to save characters and avoid the problem where pdfs Launch drops you into system32
+> 
 > copies the file and its whole path into tmp, which saves characters but makes it hard to find
 
 There was a lot of workarounds for weird bugs like calling robocopy in cmd after seemingly needlessly changing directory, some of which make it seem like I didn't use the shortest option in some places, but I couldn't make the alternatives work in any cases I noticed.
